@@ -39,7 +39,7 @@ class TwentyQuestions:
                  "\tIf I guess your object, I win!",
                  "\tBut if I ask twenty questions without guessing correctly, you win.",
                  "\n",
-                 "\tEnter 'q' at any time to quit.",
+                 "\tEnter 'y' to answer yes or 'n' to answer no. Enter 'q' at any time to quit.",
                 ]
         for line in lines:
             print(line)
